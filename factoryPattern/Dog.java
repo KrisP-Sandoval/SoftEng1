@@ -11,10 +11,6 @@ public class Dog implements Pet {
         this.breed = breed;
     }
 
-    public void displayBreed() {
-        System.out.println("Dog breed: " + breed);
-    }
-  
     @Override
     public String makeSound() {
         return "Aw, aw!";
