@@ -11,10 +11,6 @@ public class Cat implements Pet {
         this.noOfLives = noOfLives;
     }
 
-    public void displayNoOfLives() {
-        System.out.println("Number of lives: " + noOfLives);
-    }
-
     @Override
     public String makeSound() {
         return "Meow, meow!";
