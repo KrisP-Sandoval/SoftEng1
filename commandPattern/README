@@ -1,3 +1,4 @@
+## Problem Statement
 Smart Home Automation
 Imagine you're building a smart home automation system where various devices (lights, thermostat, music player, etc.) can be controlled remotely using a central hub or app. Each device has different functionalities, but you want to create a unified and flexible control mechanism.
 
@@ -13,3 +14,6 @@ In your solution you must provide the following in your Github link account:
     - Problem statement (description of the problem. Just copy what is stated here.
     - UML Class Diagram
     - Uploaded java codes for the solution.
+
+## UML Class Diagram
+![alt text](https://github.com/KrisP-Sandoval/SoftEng1/blob/6b045aaaddeb090f500e471eb52dc341ea33926d/commandPattern/UML%20Class%20Diagram_Command%20Pattern.png?raw=true)
